@@ -4,8 +4,8 @@ import { FiMail, FiMapPin, FiPhone } from "react-icons/fi";
 
 const Contact = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-900 text-white p-4">
-      <div className="bg-gray-800 p-6 rounded-xl shadow-lg w-full max-w-2xl md:max-w-3xl lg:max-w-4xl">
+<div className="flex justify-center items-center min-h-screen bg-gray-900 text-white p-4 lg:ml-[250px]">
+<div className="bg-gray-800 p-6 rounded-xl shadow-lg w-full max-w-2xl md:max-w-3xl lg:max-w-4xl">
         <h2 className="text-2xl font-bold text-white mb-4 text-center md:text-left">Contact Me</h2>
         <p className="text-gray-400 mb-4 text-center md:text-left">
           Feel free to reach out for collaborations, projects, or just to say hello!

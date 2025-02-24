@@ -16,14 +16,14 @@ const About = () => {
     {
       institution: "Khalifa Bin Jassim High School",
       program: "Certificate of Secondary Education (Jan 2020 – Oct 2023)",
-      description: ["Completed with a mean grade of B+"],
+      description: ["Completed with a mean grade of B"],
       iconColor: "bg-blue-500",
     },
   ];
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white p-6">
-      <div className="max-w-4xl w-full">
+<div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 text-white p-6 lg:ml-[250px]">
+<div className="max-w-4xl w-full">
         <h1 className="text-3xl font-bold mb-4 text-gray-100 text-center md:text-left">About Me</h1>
         <p className="text-gray-400 mb-6 text-center md:text-left">
           Hello, I am Luqman, a passionate Full-Stack Developer currently exploring new technologies.
